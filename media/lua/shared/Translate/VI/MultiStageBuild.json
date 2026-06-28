@@ -1,0 +1,22 @@
+{
+    "MultiStageBuild_CreateWoodenWall_1": "Tạo bức tường gỗ ọp ẹp",
+    "MultiStageBuild_UpgradeWoodenWall_1To2": "Nâng cấp lên Tường gỗ",
+    "MultiStageBuild_CreateWoodenWall_2": "Tạo bức tường gỗ",
+    "MultiStageBuild_UpgradeWoodenWall_1To3": "Nâng cấp lên Tường gỗ vững chắc",
+    "MultiStageBuild_UpgradeWoodenWall_2To3": "Nâng cấp lên Tường gỗ vững chắc",
+    "MultiStageBuild_CreateWoodenWall_3": "Tạo bức tường gỗ chắc chắn",
+    "MultiStageBuild_CreateWoodenWindow_1": "Tạo cửa sổ gỗ ọp ẹp",
+    "MultiStageBuild_UpgradeWoodenWindow_1To2": "Nâng cấp lên Cửa sổ gỗ",
+    "MultiStageBuild_CreateWoodenWindow_2": "Tạo cửa sổ bằng gỗ",
+    "MultiStageBuild_UpgradeWoodenWindow_1To3": "Nâng cấp lên Cửa sổ gỗ chắc chắn",
+    "MultiStageBuild_UpgradeWoodenWindow_2To3": "Nâng cấp lên Cửa sổ gỗ chắc chắn",
+    "MultiStageBuild_CreateWoodenWindow_3": "Tạo cửa sổ gỗ chắc chắn",
+    "MultiStageBuild_CreateMetalWall_1": "Tạo bức tường kim loại",
+    "MultiStageBuild_UpgradeMetalWall_1To2": "Nâng cấp lên Tường kim loại chắc chắn",
+    "MultiStageBuild_CreateMetalWall_2": "Tạo bức tường kim loại chắc chắn",
+    "MultiStageBuild_CreateMetalWindow_1": "Tạo cửa sổ kim loại",
+    "MultiStageBuild_UpgradeMetalWindow_1To2": "Nâng cấp lên Cửa sổ kim loại chắc chắn",
+    "MultiStageBuild_CreateMetalWindow_2": "Tạo cửa sổ kim loại chắc chắn",
+    "MultiStageBuild_UpgradeWoodenDoorFrame_1To2": "Nâng cấp lên Khung cửa gỗ ổn định",
+    "MultiStageBuild_UpgradeWoodenDoorFrame_2To3": "Nâng cấp lên Khung cửa gỗ chắc chắn"
+}

@@ -1,0 +1,13 @@
+{
+    "BODYPART_PELVIS": "xương chậu",
+    "BODYPART_SPINE": "cột sống",
+    "BODYPART_HEAD": "cái đầu",
+    "BODYPART_LEFT_UPPER_LEG": "Chân trên bên trái",
+    "BODYPART_LEFT_LOWER_LEG": "Chân dưới bên trái",
+    "BODYPART_RIGHT_UPPER_LEG": "Chân trên bên phải",
+    "BODYPART_RIGHT_LOWER_LEG": "Chân dưới bên phải",
+    "BODYPART_LEFT_UPPER_ARM": "Cánh tay trên bên trái",
+    "BODYPART_LEFT_LOWER_ARM": "Cánh tay dưới bên trái",
+    "BODYPART_RIGHT_UPPER_ARM": "Cánh tay trên bên phải",
+    "BODYPART_RIGHT_LOWER_ARM": "Cánh tay dưới bên phải"
+}

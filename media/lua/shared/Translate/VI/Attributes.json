@@ -1,0 +1,14 @@
+{
+    "Attributes_Type_None": "không có",
+    "Attributes_Type_Quality": "chất lượng",
+    "Attributes_Type_Durability": "Độ bền",
+    "Attributes_Type_WoodWetness": "Độ ẩm của gỗ",
+    "Attributes_Type_Uses": "Công dụng",
+    "Attributes_Type_DurabilityOnUse": "Độ bền khi sử dụng",
+    "Attributes_Type_CraftedBy": "được chế tạo bởi",
+    "Attributes_Type_MetalType": "Loại kim loại",
+    "Attributes_Type_WoodType": "Loại gỗ",
+    "Attributes_Type_ContainsWood": "Chứa gỗ",
+    "Attributes_Type_ContainsMetal": "Chứa kim loại",
+    "Attributes_TooltipOverride_Durability": "Sử dụng độ bền"
+}

@@ -1,0 +1,98 @@
+VERSION = 1,
+
+font Code
+{
+    fnt = zomboidCode.fnt,
+}
+
+font CodeSmall
+{
+    fnt = codeSmall.fnt,
+}
+
+font CodeMedium
+{
+    fnt = codeMedium.fnt,
+}
+
+font CodeLarge
+{
+    fnt = codeLarge.fnt,
+}
+
+font Cred1
+{
+    fnt = zomboidLarge.fnt,
+}
+
+font Cred2
+{
+    fnt = zomboidLarge.fnt,
+}
+
+font Dialogue
+{
+    fnt = zomboidMedium.fnt,
+}
+
+font Intro
+{
+    fnt = zomboidLarge.fnt,
+}
+
+font Handwritten
+{
+    fnt = zomboidSmall.fnt,
+}
+
+font MainMenu1
+{
+    fnt = mainfont.fnt,
+    img = mainfont_0.png,
+}
+
+font MainMenu2
+{
+    fnt = mainfont2.fnt,
+    img = mainfont2_0.png,
+}
+
+font Massive
+{
+    fnt = zomboidLarge.fnt,
+}
+
+font NewSmall
+{
+    fnt = zomboidSmall.fnt,
+}
+
+font NewMedium
+{
+    fnt = zomboidMedium.fnt,
+}
+
+font NewLarge
+{
+    fnt = zomboidLarge.fnt,
+}
+
+font Small
+{
+    fnt = zomboidSmall.fnt,
+}
+
+font Medium
+{
+    fnt = zomboidMedium.fnt,
+}
+
+font Large
+{
+    fnt = zomboidLarge.fnt,
+}
+
+font Title
+{
+    fnt = zomboidLarge.fnt,
+}
