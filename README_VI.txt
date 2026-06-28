@@ -1,6 +1,9 @@
 VIỆT HÓA PROJECT ZOMBOID B42.19.0
 
 Tải xuống:
+https://github.com/EmBeHocCode/ProjectZomboid_VietHoa_B42.19.0/releases/latest/download/ProjectZomboid_VietHoa_B42.19.0.zip
+
+Link dự phòng nếu Release chưa hiện:
 https://github.com/EmBeHocCode/ProjectZomboid_VietHoa_B42.19.0/raw/main/release/ProjectZomboid_VietHoa_B42.19.0.zip
 
 Sau khi tải xong, giải nén file zip rồi làm theo hướng dẫn bên dưới.

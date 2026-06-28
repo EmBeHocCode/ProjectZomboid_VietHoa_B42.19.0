@@ -1,0 +1,26 @@
+name: Create Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create GitHub Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG_NAME: ${{ github.ref_name }}
+        run: |
+          gh release create "$TAG_NAME" \
+            "release/ProjectZomboid_VietHoa_B42.19.0.zip" \
+            --title "Project Zomboid Việt Hóa B42.19.0" \
+            --notes "Tải file ProjectZomboid_VietHoa_B42.19.0.zip, giải nén, rồi làm theo README để cài đặt. Lưu ý thoát hẳn game trước khi cài để tránh lỗi font cache."
